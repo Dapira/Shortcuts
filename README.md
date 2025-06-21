@@ -1,1 +1,1 @@
-
+[![Dev Cheat Sheet](https://img.shields.io/badge/📋-Ver_Atajos_Completos-00f7ff?style=for-the-badge)](https://htmlpreview.github.io/?https://gist.githubusercontent.com/Dapira/b8a94c618ea5f8701fad81d36887282a/raw/b4f53987ae65d69b162dfd5a376108bae3bb6c11/cheatsheet.html)
